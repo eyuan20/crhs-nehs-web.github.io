@@ -3,28 +3,13 @@ html {
   width: 100%;
 }
 
-.baskervville-sc-regular {
-  font-family: "Baskervville SC", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-.tangerine-regular {
-  font-family: "Tangerine", cursive;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.tangerine-bold {
-  font-family: "Tangerine", cursive;
-  font-weight: 700;
-  font-style: normal;
-}
 
 
 
-h1{font-family: "Baskervvile SC", serif;}
-h2{font-family: "Baskervvile SC", serif;}
-p{font-family: "Tangerine", cursive;}
+
+h1{font-family: "Georgia", serif;}
+h2{font-family: "Georgia", serif;}
+p{font-family: "Georgia", serif;}
 
 .navbar {
   background-color: #333;
