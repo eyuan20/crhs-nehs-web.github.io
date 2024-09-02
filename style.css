@@ -7,9 +7,9 @@ html {
 
 
 
-h1{font-family: "Georgia", serif;}
-h2{font-family: "Georgia", serif;}
-p{font-family: "Georgia", serif;}
+h1{font-family: "Garamond", serif; color: #2b0980}
+h2{font-family: "Garamond", serif; color: #2b0980}
+p{font-family: "Cambria", serif;}
 
 .navbar {
   background-color: #333;
