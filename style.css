@@ -3,50 +3,6 @@ html {
   width: 100%;
 }
 
-
-/* Container holding the image and the text */
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
-}
-
-/* Bottom left text */
-.bottom-left {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-}
-
-/* Top left text */
-.top-left {
-  position: absolute;
-  top: 8px;
-  left: 16px;
-}
-
-/* Top right text */
-.top-right {
-  position: absolute;
-  top: 8px;
-  right: 16px;
-}
-
-/* Bottom right text */
-.bottom-right {
-  position: absolute;
-  bottom: 8px;
-  right: 16px;
-}
-
-/* Centered text */
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 #banner {
   background-image: url("https://www.collegemagazine.com/wp-content/uploads/2022/02/alfons-morales-YLSwjSy7stw-unsplash-768x450.jpg");
   background-size: cover;
@@ -63,7 +19,7 @@ html {
   margin: 0 auto;
 }
 
-h1{font-family: "Garamond", serif; color: #2b0980}
+h1{font-family: "Garamond", serif; color: white}
 h2{font-family: "Garamond", serif; color: #2b0980}
 p{font-family: "Cambria", serif;}
 
